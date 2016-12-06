@@ -1,1 +1,9 @@
-hello test file
+create two queues "orderQueue" and "executedOrderQueue"
+run the exploded file on server 
+append the url /sendOrder
+
+Stock is added using BeanPostProcessor
+Validator is added and called before send. 
+
+Order send and received after receiving it update the status and send to executedOrderQueue 
+
