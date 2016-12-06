@@ -1,1 +1,6 @@
-Test File for Project Info
+1. created one producer file 
+2. created one reciever file
+3. created one jndi.properties file
+4. created one Order pojo class
+5. created one custom exception file
+6. created one main class to test 
